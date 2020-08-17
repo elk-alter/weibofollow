@@ -1,7 +1,7 @@
 # Weibo_follow
 [![GitHub license](https://img.shields.io/github/license/elk-alter/weibofollow)](https://github.com/elk-alter/weibofollow/blob/master/LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/elk-alter/weibofollow)](https://github.com/elk-alter/weibofollow/issues)  [![GitHub forks](https://img.shields.io/github/forks/elk-alter/weibofollow)](https://github.com/elk-alter/weibofollow/network)  [![GitHub stars](https://img.shields.io/github/stars/elk-alter/weibofollow)](https://github.com/elk-alter/weibofollow/stargazers)
 
-基于HBase数据库的微博关B注Demo
+基于HBase数据库的微博关注Demo
 
 ## 界面
 ![sign in](https://cdn.jsdelivr.net/gh/elk-alter/weibofollow@1.0/screenshot/Snipaste_2020-08-17_13-03-54.png)
